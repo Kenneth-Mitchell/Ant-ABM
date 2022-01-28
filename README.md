@@ -11,4 +11,4 @@ Either model can be ran by using the command experiment(n,x), which runs the mod
 
 # Recent updates:
 
-I am constructing a jupyter notebook version of the model that should make things easier to understand, and hopefully combine the two model versions into one.
+I am constructing a jupyter notebook version of the model that should make things easier to understand. The two versions are now combined in the jupyter notebook.
